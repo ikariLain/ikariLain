@@ -10,7 +10,10 @@
 
 📫 How to reach me **Matheus-torrico@outlook.com**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ikariLain&theme=nightowl" alt="mystreak"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ikariLain&theme=nightowl&border_radius=6&short_numbers=true" alt="GitHub Streak" /></a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ikariLain&theme=nightowl" alt="mystreak"
+     onerror="https://streak-stats.demolab.com/?user=ikariLain&theme=nightowl" />
 </br>
 
 ## Github stats: 💻
