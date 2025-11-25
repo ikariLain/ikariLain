@@ -6,7 +6,7 @@
 
 </br>
 
-🌱 My name is Matheus and I’m currently studying Fullstack .NET at a vocational uninversity
+🌱 My name is Matheus and I’m currently studying Fullstack .NET at a vocational university
 
 📫 How to reach me **Matheus-torrico@outlook.com**
 
