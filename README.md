@@ -1,7 +1,6 @@
 <img width="1723" height="691" alt="banner" src="https://github.com/user-attachments/assets/0d171cd6-482e-45a0-9766-837b43fafe44" />
 
 
-<img src="https://user-images.githubusercontent.com/113366808/224336356-c09c9402-9e83-44f3-a870-8bae1bf2d7d0.svg" width ="70" height="70" alt="Chas Academy logo" align="right">
 
 
 </br>
