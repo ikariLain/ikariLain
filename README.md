@@ -38,32 +38,11 @@
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
 
-</div>
-
-
-</br>
-
-## Github stats: 💻
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ikariLain&theme=nightowl&border_radius=6&short_numbers=true" alt="GitHub Streak" /></a>
-</div>
-
----
-</br>
-
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikariLain&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ovi"  />
-</div>
-
-<div align="center">
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=ikariLain&show_icons=true&locale=en&layout=compact&theme=nightowl" />    
-</div>
 
 ##
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/matheus-torrico-076364182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adozs" height="30" width="40" /></a>
-
 </p>
 
 
